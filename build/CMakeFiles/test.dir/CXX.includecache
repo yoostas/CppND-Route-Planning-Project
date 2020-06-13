@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macbookpro/Documents/MyProjects/C++Projects/OSM_Project_Nanodegree/CppND-Route-Planning-Project/src/model.h
+vector
+-
+unordered_map
+-
+string
+-
+cstddef
+-
+
+/Users/macbookpro/Documents/MyProjects/C++Projects/OSM_Project_Nanodegree/CppND-Route-Planning-Project/src/route_model.h
+limits
+-
+cmath
+-
+unordered_map
+-
+model.h
+/Users/macbookpro/Documents/MyProjects/C++Projects/OSM_Project_Nanodegree/CppND-Route-Planning-Project/src/model.h
+iostream
+-
+
+/Users/macbookpro/Documents/MyProjects/C++Projects/OSM_Project_Nanodegree/CppND-Route-Planning-Project/src/route_planner.cpp
+route_planner.h
+/Users/macbookpro/Documents/MyProjects/C++Projects/OSM_Project_Nanodegree/CppND-Route-Planning-Project/src/route_planner.h
+algorithm
+-
+
+/Users/macbookpro/Documents/MyProjects/C++Projects/OSM_Project_Nanodegree/CppND-Route-Planning-Project/src/route_planner.h
+iostream
+-
+vector
+-
+string
+-
+route_model.h
+/Users/macbookpro/Documents/MyProjects/C++Projects/OSM_Project_Nanodegree/CppND-Route-Planning-Project/src/route_model.h
+
